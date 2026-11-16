@@ -138,9 +138,9 @@
 		"@tailwindcss/vite": "4.3.3",
 		"@testing-library/svelte": "5.4.2",
 		"@types/bun": "1.4.4",
-		"markdownlint-cli2": "0.24.0",
+		"markdownlint-cli2": "0.24.1",
 		"oxlint": "1.90.0",
-		"oxlint-tsgolint": "7.0.2006",
+		"oxlint-tsgolint": "7.0.2007",
 		"publint": "0.3.25",
 		"shiki": "4.5.0",
 		"svelte": "5.57.3",
@@ -148,7 +148,7 @@
 		"tailwindcss": "4.3.3",
 		"tailwint": "1.1.16",
 		"typescript": "6.0.3",
-		"vite": "8.3.6",
+		"vite": "8.3.8",
 		"zod": "4.6.7"
 	},
 	"keywords": [
