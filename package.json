@@ -11,7 +11,7 @@
 	"bin": {
 		"zedensix-ui-mcp": "dist/mcp.js"
 	},
-	"packageManager": "bun@1.4.4",
+	"packageManager": "bun@1.4.5",
 	"files": [
 		"dist",
 		"!dist/**/*.test.*",
@@ -137,7 +137,7 @@
 		"@sveltejs/vite-plugin-svelte": "7.3.1",
 		"@tailwindcss/vite": "4.3.3",
 		"@testing-library/svelte": "5.4.2",
-		"@types/bun": "1.4.4",
+		"@types/bun": "1.4.5",
 		"markdownlint-cli2": "0.24.1",
 		"oxlint": "1.90.0",
 		"oxlint-tsgolint": "7.0.2007",
