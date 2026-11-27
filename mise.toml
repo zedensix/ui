@@ -1,7 +1,7 @@
 [tools]
 bun = "1.4.4"
 go = "1.27.4"
-prek = "0.5.10"
+prek = "0.5.12"
 
 [hooks]
 postinstall = "prek install"
